@@ -1,0 +1,66 @@
+2018-12-02 17:27:28 INFO <module>[config.py-18] hello,world
+2018-12-02 17:39:55 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-02 17:51:00 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-02 17:51:00 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-02 17:51:01 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 42
+2018-12-02 17:51:46 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-02 17:52:52 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-02 17:52:52 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-02 17:52:52 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 42
+2018-12-02 17:54:35 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-02 17:59:05 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-02 17:59:05 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-02 17:59:05 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 42
+2018-12-02 18:04:33 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-02 18:04:33 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-02 18:04:33 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 42
+2018-12-02 18:05:33 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-02 18:05:34 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-02 18:05:34 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 42
+2018-12-02 18:13:45 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-02 18:13:47 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-02 18:13:47 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 21
+2018-12-02 18:14:14 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-02 18:14:33 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-02 18:14:34 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-02 18:14:34 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 21
+2018-12-02 18:16:57 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-02 18:16:57 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-02 18:16:57 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 21
+2018-12-09 10:06:59 INFO <module>[config.py-29] hello,world
+2018-12-09 10:09:29 INFO <module>[config.py-32] hello,world
+2018-12-09 10:11:02 INFO <module>[config.py-32] hello,world
+2018-12-09 10:12:18 INFO <module>[config.py-32] hello,world
+2018-12-09 10:28:57 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-09 10:28:57 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/reg/ HTTP/1.1" 200 122
+2018-12-09 10:28:57 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-09 10:28:57 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/reg/ HTTP/1.1" 200 152
+2018-12-09 10:29:04 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-09 10:29:04 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-09 10:29:04 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 21
+2018-12-09 10:29:34 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-09 10:29:34 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-09 10:29:35 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 21
+2018-12-09 10:30:00 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-09 10:30:00 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-09 10:30:00 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 42
+2018-12-09 10:30:35 DEBUG db_query[db.py-16] select * from user where name='张三'
+2018-12-09 10:30:35 DEBUG _new_conn[connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-09 10:30:36 DEBUG _make_request[connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 21
+2018-12-09 10:35:18 DEBUG _new_conn [connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-09 10:35:18 DEBUG _make_request [connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/reg/ HTTP/1.1" 200 122
+2018-12-09 10:35:18 DEBUG _new_conn [connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-09 10:35:18 DEBUG _make_request [connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/reg/ HTTP/1.1" 200 152
+2018-12-09 10:39:47 DEBUG db_query [db.py-16] select * from user where name='张三'
+2018-12-09 10:39:47 INFO <module> [run.py-10] 测试开始=
+2018-12-09 10:39:47 DEBUG _new_conn [connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-09 10:39:47 DEBUG _make_request [connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 21
+2018-12-09 10:39:47 DEBUG _new_conn [connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-09 10:39:48 DEBUG _make_request [connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/reg/ HTTP/1.1" 200 122
+2018-12-09 10:39:48 DEBUG _new_conn [connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-09 10:39:48 DEBUG _make_request [connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/reg/ HTTP/1.1" 200 152
+2018-12-09 10:39:48 INFO <module> [run.py-13] 测试结束=
+2018-12-09 11:10:32 DEBUG _new_conn [connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-09 11:10:32 DEBUG _make_request [connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/reg/ HTTP/1.1" 200 122
+2018-12-09 11:10:32 DEBUG _new_conn [connectionpool.py-208] Starting new HTTP connection (1): 115.28.108.130
+2018-12-09 11:10:32 DEBUG _make_request [connectionpool.py-396] http://115.28.108.130:5000 "POST /api/user/reg/ HTTP/1.1" 200 152
